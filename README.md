@@ -1,2 +1,2 @@
 # free-rembg-desktop
-RemBG Desktop Applicattion - usefull for batch processing and cross-platform GUI
+RemBG Desktop Applicattion - useful for batch processing and cross-platform GUI
