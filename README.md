@@ -1,6 +1,20 @@
 # free-rembg-desktop
 RemBG Desktop Application - useful for batch processing and cross-platform GUI
 
+## About the App
+
+RemBG Desktop is a powerful application designed for efficient bulk background removal from images. Leveraging advanced AI technology, it enables users to process large volumes of images simultaneously, significantly reducing the time and effort required for background editing tasks. Perfect for professionals in photography, e-commerce, and marketing who need to handle numerous images consistently.
+
+![RemBG Desktop Application](images/app-home-page.png)
+
+### Key Features
+- **Bulk Processing**: Remove backgrounds from multiple images at once, streamlining workflows for projects involving numerous photos
+- **High-Quality Output**: Delivers precise and clean background removal, preserving fine details for professional-grade results
+- **User-Friendly Interface**: Designed for accessibility, allowing users of all skill levels to navigate and utilize the application with ease
+- **Cross-Platform Support**: Available for Windows, macOS, and Linux, ensuring compatibility across various operating systems
+- **Customizable Settings**: Offers options to adjust processing parameters to meet specific project requirements
+- **Drag-and-Drop**: Simple interface for uploading multiple images quickly
+
 ## Downloads
 
 ### Version 1.1.0
