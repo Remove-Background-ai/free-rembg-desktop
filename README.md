@@ -29,7 +29,7 @@ RemBG Desktop is a powerful application designed for efficient bulk background r
 - **Intel Mac**: [RemBG.Desktop-1.1.0.dmg](https://github.com/Remove-Background-ai/free-rembg-desktop/releases/download/v1.1.0/RemBG.Desktop-1.1.0.dmg) (106 MB)
   - SHA256: `df1f55e78cb45fb21dd04a51fe926f8d25adc26ae0c0d3e6aeb8ee8bf61f16c4`
 - **Apple Silicon (M1/M2/M3)**: [RemBG.Desktop-1.1.0-arm64.dmg](https://github.com/Remove-Background-ai/free-rembg-desktop/releases/download/v1.1.0/RemBG.Desktop-1.1.0-arm64.dmg) (100 MB)
-  - SHA256: `7b186650f1d3fa5b2fb6fb688e6402e38e1cdd375a3204c41207b219925c5991`
+  - SHA256: `21078c9315cf02b2081a363747963aa207f679000a4fa308906b6892e8a03ebf`
 
 #### Windows
 - **Installer**: [RemBG.Desktop.Setup.1.1.0.exe](https://github.com/Remove-Background-ai/free-rembg-desktop/releases/download/v1.1.0/RemBG.Desktop.Setup.1.1.0.exe) (79.7 MB)
